@@ -1,0 +1,2 @@
+# PicBed
+Typora + PicGO + github
